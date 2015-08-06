@@ -10,7 +10,10 @@ import java.util.Map;
 import java.util.Set;
 
 /**
- * Created by jaseeka on 2015/4/2.
+ * 基础实体类，其他实体需继承
+ * Created by jaseeka
+ * date 2015/7/22
+ * time 14:46
  */
 public class BaseEntity implements Serializable {
 

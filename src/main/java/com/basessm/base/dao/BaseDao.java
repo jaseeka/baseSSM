@@ -7,9 +7,11 @@ import org.apache.ibatis.annotations.InsertProvider;
 import org.apache.ibatis.annotations.SelectKey;
 import org.apache.ibatis.annotations.UpdateProvider;
 
-/**
- * 通用Mapper接口
- * Created by jaseeka on 2015/4/2.
+ /**
+ * 通用Mapper接口（使用时需继承该接口）
+ * Created by jaseeka
+ * date 2015/7/22
+ * time 14:46
  */
 public interface BaseDao<T extends BaseEntity> {
 

@@ -9,7 +9,9 @@ import static org.apache.ibatis.jdbc.SqlBuilder.*;
 
 /**
  * 语句模板类
- * Created by jaseeka on 2015/4/2.
+ * Created by jaseeka
+ * date 2015/7/22
+ * time 14:46
  */
 public class SQLTemplate<T extends BaseEntity> {
 
