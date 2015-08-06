@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/basessm/base/dao/BaseDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/basessm/base/dao/BaseEntity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/basessm/base/dao/SQLTemplate.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/basessm/base/utils/ClassUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/basessm/base/utils/DateUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/basessm/base/utils/FileUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/basessm/base/utils/JsonUtils.java" charset="UTF-8" />
+  </component>
+</project>
