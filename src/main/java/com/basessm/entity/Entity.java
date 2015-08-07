@@ -1,6 +1,6 @@
 package com.basessm.entity;
 
-import com.basessm.base.dao.BaseEntity;
+import com.common.dao.BaseEntity;
 
 /**
  * 基础测试类

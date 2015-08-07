@@ -1,6 +1,6 @@
 package com.basessm.controller;
 
-import com.basessm.base.utils.JsonUtils;
+import com.common.utils.JsonUtils;
 import com.basessm.common.ResultEntity;
 import com.basessm.entity.Entity;
 import com.basessm.service.IEntityService;

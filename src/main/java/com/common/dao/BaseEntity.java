@@ -1,8 +1,8 @@
-package com.basessm.base.dao;
+package com.common.dao;
 
 
 
-import com.basessm.base.utils.ClassUtils;
+import com.common.utils.ClassUtils;
 
 import java.io.Serializable;
 import java.util.HashMap;

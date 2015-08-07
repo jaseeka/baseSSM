@@ -1,7 +1,7 @@
 package com.basessm.dao;
 
-import com.basessm.base.dao.BaseDao;
-import com.basessm.base.dao.SQLTemplate;
+import com.common.dao.BaseDao;
+import com.common.dao.SQLTemplate;
 import com.basessm.entity.Entity;
 import com.github.miemiedev.mybatis.paginator.domain.PageBounds;
 import com.github.miemiedev.mybatis.paginator.domain.PageList;

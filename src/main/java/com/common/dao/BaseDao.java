@@ -1,4 +1,4 @@
-package com.basessm.base.dao;
+package com.common.dao;
 
 import com.github.miemiedev.mybatis.paginator.domain.PageBounds;
 import com.github.miemiedev.mybatis.paginator.domain.PageList;
